@@ -1,9 +1,8 @@
-package com.hackerrank.Strings;
+package com.hackerrank.StringsJava;
 
 public class DuplicateWordsRegex {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 	}
 

@@ -1,6 +1,5 @@
 package com.hackerrank.OOP;
 
-import java.util.*;
 
 class Sports {
 
@@ -25,13 +24,14 @@ class Soccer extends Sports {
 	}
 
 	public class OverrideMethod {
-		public void main(String []args){
-	        Sports c1 = new Sports();
-	        Soccer c2 = new Soccer();
-	        System.out.println(c1.getName());
-	        c1.getNumberOfTeamMembers();
-	        System.out.println(c2.getName());
-	        c2.getNumberOfTeamMembers();
+		public void main(String[] args) {
+			Sports c1 = new Sports();
+			Soccer c2 = new Soccer();
+			System.out.println(c1.getName());
+			c1.getNumberOfTeamMembers();
+			System.out.println(c2.getName());
+			c2.getNumberOfTeamMembers();
 		}
 
 	}
+}

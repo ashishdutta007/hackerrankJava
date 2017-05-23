@@ -1,4 +1,4 @@
-package com.hackerrank.Strings;
+package com.hackerrank.StringsJava;
 
 import java.util.Scanner;
 import java.util.regex.Pattern;
