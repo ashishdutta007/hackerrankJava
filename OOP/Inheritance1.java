@@ -1,6 +1,6 @@
 package com.hackerrank.OOP;
 
-//A .java file can have multiple classes but only one public class
+//A (.java) file can have multiple classes but only one public class
 public class Inheritance1 {
 
 	public static void main(String[] args) {

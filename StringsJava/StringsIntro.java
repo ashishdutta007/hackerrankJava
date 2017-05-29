@@ -2,6 +2,7 @@ package com.hackerrank.StringsJava;
 
 import java.util.Scanner;
 
+//Complexity = O(1)
 public class StringsIntro {
 	public static void main(String[] args) {
 
